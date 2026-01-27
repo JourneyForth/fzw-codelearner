@@ -16,8 +16,8 @@
 ### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fzw-codelearner&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzw-codelearner&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzw-codelearner&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />  
 </div>
 
 <!-- 这里可以放那个贪吃蛇动画 -->
-![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/fzw-codelearner/fzw-codelearner/blob/output/github-contribution-grid-snake-dark.svg)
