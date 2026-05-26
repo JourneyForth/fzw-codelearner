@@ -1,4 +1,4 @@
-# Hi there, I'm sonw 👋
+# Hi there, I'mJourneyForth 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&width=435&lines=Deep+Learning+Learner;Obsidian+Heavy+User;PyTorch+Developer)](https://git.io/typing-svg)
 
@@ -19,5 +19,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fzw-codelearner&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />  
 </div>
 
-<!-- 这里可以放那个贪吃蛇动画 -->
 ![Snake animation](https://github.com/fzw-codelearner/fzw-codelearner/blob/output/github-contribution-grid-snake-dark.svg)
